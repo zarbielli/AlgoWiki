@@ -1,0 +1,2052 @@
+[
+    {
+      "Family Name": "Sorting",
+      "Variation": "Sorting",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Sorting",
+      "Variation": "Comparison Sorting",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Sorting",
+      "Variation": "Non-Comparison Sorting",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "kth Order Statistic",
+      "Variation": "kth Order Statistic",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Chain Multiplication",
+      "Variation": "Matrix Chain Ordering Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Chain Multiplication",
+      "Variation": "Approximate MCOP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Chain Multiplication",
+      "Variation": "Matrix Chain Scheduling Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Chain Multiplication",
+      "Variation": "Approximate MCSP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Longest Common Subsequence",
+      "Variation": "Longest Common Subsequence",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Longest Common Subsequence",
+      "Variation": "Longest Common Substring with don't cares",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "st-Maximum Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "Integer Maximum Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "Unweighted Maximum Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "Non-integer Maximum Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "Minimum-Cost Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "All-Pairs Maximum Flow",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Flow",
+      "Variation": "Maximum Local Edge Connectivity",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "Matrix Multiplication",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "Boolean Matrix Multiplication",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "Boolean Matrix Multiplication (Combinatorial)",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "Matrix Product Verification",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "Distance Product",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Matrix Product",
+      "Variation": "$(\\min, \\leq)$ Product",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "General Linear System",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "Sparse Linear System",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "Positive Definite, Hermitian Matrix",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "Non-Definite, Symmetric Matrix",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "Toeplitz Matrix",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear System",
+      "Variation": "Vandermonde Matrix",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear Programming",
+      "Variation": "General Linear Programming",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear Programming",
+      "Variation": "Linear Programming with Reals",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear Programming",
+      "Variation": "Integer Linear Programming",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Linear Programming",
+      "Variation": "0-1 Linear Programming",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Line segment intersection",
+      "Variation": "Reporting all intersection points, line segments",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line segment intersection",
+      "Variation": "Reporting all intersection points, generalized segments",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line segment intersection",
+      "Variation": "Reporting all intersection points, convex polygons",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line segment intersection",
+      "Variation": "Reporting all intersection points, general polygons",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line segment intersection",
+      "Variation": "Counting number of intersection points, line segments",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Convex Hull",
+      "Variation": "2-dimensional Convex Hull",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Convex Hull",
+      "Variation": "3-dimensional Convex Hull",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Convex Hull",
+      "Variation": "d-dimensional Convex Hull",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Convex Hull",
+      "Variation": "2-dimensional Convex Hull, Online",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Convex Hull",
+      "Variation": "2-dimensional Convex Hull, Dynamic",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "Strongly Connected Components",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "Transitive Closure",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "Maximum Strongly Connected Component",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "Strong Connectivity (dynamic)",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "2 Strong Components (dynamic)",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Strongly Connected Components",
+      "Variation": "Connected Subgraph",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Undirected, General MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Undirected, Dense MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Undirected, Planar MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Undirected, Integer Weights MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Directed (Optimum Branchings), General MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Minimum Spanning Tree (MST)",
+      "Variation": "Directed (Optimum Branchings), Super Dense MST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Closest Pair Problem",
+      "Variation": "k-dimensional space, $l_m$ (or $l_\\infty$) norm",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Closest Pair Problem",
+      "Variation": "2-dimensional space, $l_m$ (or $l_\\infty$) norm",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Closest Pair Problem",
+      "Variation": "2-dimensional space, Euclidean metric",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Closest Pair Problem",
+      "Variation": "2-dimensional array representation",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "General Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "Nonnegative Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "Nonnegative Integer Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "Second Shortest Simple Path",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "st-Shortest Path",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "1-sensitive (3/2)-approximate ss-shortest paths",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "2-sensitive (7/5)-approximate st-shortest paths",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "1-sensitive decremental st-shortest paths",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "2-sensitive decremental st-shortest paths",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Shortest Path (Directed Graphs)",
+      "Variation": "Replacement Paths Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Dense Directed Graphs with Arbitrary Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Dense Undirected Graphs with Arbitrary Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Geometrically Weighted Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Dense Undirected Graphs with Positive Integer Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Sparse Directed Graphs with Arbitrary Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Sparse Undirected Graphs with Positive Integer Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Sparse Undirected Graphs with Arbitrary Weights",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Dense Directed Unweighted Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Dense Undirected Unweighted Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Sparse Directed Unweighted Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "APSP on Sparse Undirected Unweighted Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All-Pairs Shortest Paths (APSP)",
+      "Variation": "(5/3)-approximate ap-shortest paths",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Integer Factoring",
+      "Variation": "Integer Factoring",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Integer Factoring",
+      "Variation": "Smallest Factor",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "LU Decomposition",
+      "Variation": "Rectangular Matrix LU Decomposition",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "LU Decomposition",
+      "Variation": "Square Matrix LU Decomposition",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Informed Search",
+      "Variation": "Informed Search",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "String Search",
+      "Variation": "Single String Search",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "String Search",
+      "Variation": "Multiple String Search",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Sequence Alignment",
+      "Variation": "Edit Distance, constant-size alphabet",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "Sequence Alignment",
+      "Variation": "Edit Sequence, constant-size alphabet",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "Joins",
+      "Variation": "Joins",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "Line Clipping",
+      "Variation": "Rectangular Window",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line Clipping",
+      "Variation": "Convex Polygonal Window",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line Clipping",
+      "Variation": "Convex Polyhedral Window",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "NFA to DFA conversion",
+      "Variation": "NFA to DFA conversion",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Multiplication",
+      "Variation": "Multiplication",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Maximum Cardinality Matching",
+      "Variation": "Bipartite Graph MCM",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Cardinality Matching",
+      "Variation": "General Graph MCM",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Cardinality Matching",
+      "Variation": "Planar Bipartite Graph Perfect Matching",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Key Exchange",
+      "Variation": "Key Exchange",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "Mutual Exclusion",
+      "Variation": "Mutual Exclusion",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "SDD Systems Solvers",
+      "Variation": "Exact Laplacian Solver",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "SDD Systems Solvers",
+      "Variation": "Inexact Laplacian Solver",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Cycle Detection",
+      "Variation": "Cycle Detection",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Generating Random Permutations",
+      "Variation": "General Permutations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Generating Random Permutations",
+      "Variation": "Cyclic Permutations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Convex Optimization (Non-linear)",
+      "Variation": "Convex Optimization (Non-linear)",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Gröbner Bases",
+      "Variation": "Gröbner Bases",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Minimum value in each row of an implicitly-defined totally monotone matrix",
+      "Variation": "Minimum value in each row of an implicitly-defined totally monotone matrix",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "All Permutations",
+      "Variation": "All Permutations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Optimal Binary Search Trees",
+      "Variation": "Optimal Binary Search Tree Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Optimal Binary Search Trees",
+      "Variation": "Approximate OBST",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Optimal Binary Search Trees",
+      "Variation": "Huffman Encoding",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Optimal Binary Search Trees",
+      "Variation": "Alphabetic Tree Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Nash Equilibria",
+      "Variation": "2-Player",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "Nash Equilibria",
+      "Variation": "n-Player",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "Maximum-Weight Matching",
+      "Variation": "Maximum-Weight Matching",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum-Weight Matching",
+      "Variation": "Bipartite Maximum-Weight Matching",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Constructing Eulerian Trails in a Graph",
+      "Variation": "Constructing Eulerian Trails in a Graph",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Discrete Fourier Transform",
+      "Variation": "Discrete Fourier Transform",
+      "Domain": "Signal Processing"
+    },
+    {
+      "Family Name": "Line Drawing",
+      "Variation": "Line Drawing",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Polygon Clipping",
+      "Variation": "Polygon Clipping with Arbitrary Clipping Polygon",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Polygon Clipping",
+      "Variation": "Polygon Clipping with Convex Clipping Polygon",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Shown Surface Determination",
+      "Variation": "(3-Dimensional, i.e. project onto a 2D plane)",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Line Simplification",
+      "Variation": "Line Simplification",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "All Eigenvalues",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "Any Eigenvalue",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "All Eigenpairs",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "Any Eigenpair",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "Eigenpair with the Largest Eigenvalue",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Eigenvalues (Iterative Methods)",
+      "Variation": "Eigenpair closest to mu",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Root Computation",
+      "Variation": "General Root Computation",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Root Computation",
+      "Variation": "Root Computation with continuous first derivative",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Nearest Neighbor Search",
+      "Variation": "k Nearest Neighbors Search",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Nearest Neighbor Search",
+      "Variation": "k Approximate Nearest Neighbors Search",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Nearest Neighbor Search",
+      "Variation": "k-ANNS for a dense 3D map of geometric points",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Coset Enumeration",
+      "Variation": "Coset Enumeration",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Maximum Likelihood Parameters",
+      "Variation": "Maximum Likelihood Parameters",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Cardinality Estimation",
+      "Variation": "Cardinality Estimation",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Register Allocation",
+      "Variation": "Local Register Allocation",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Register Allocation",
+      "Variation": "Global Register Allocation",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Voronoi Diagrams",
+      "Variation": "Voronoi Diagrams",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Variance Calculations",
+      "Variation": "Variance Calculations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Topological Sorting",
+      "Variation": "Topological Sorting",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "DFA Minimization",
+      "Variation": "DFA Minimization",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "DFA Minimization",
+      "Variation": "Acyclic DFA Minimization",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "DFA Minimization",
+      "Variation": "Cyclic Nontrivial SCCs DFA Minimization",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Lowest Common Ancestor",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Off-Line Lowest Common Ancestor",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Lowest Common Ancestor with Static Trees",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Lowest Common Ancestor with Linking Roots",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Lowest Common Ancestor with Linking",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Lowest Common Ancestor",
+      "Variation": "Lowest Common Ancestors with Linking and Cutting",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Edit Distance Computation",
+      "Variation": "Exact GED",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Edit Distance Computation",
+      "Variation": "Inexact GED",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Clique Problems",
+      "Variation": "Enumerating Maximal Cliques, arbitrary graph",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Clique Problems",
+      "Variation": "k-Clique",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Clique Problems",
+      "Variation": "Exact k-Clique",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Clique Problems",
+      "Variation": "Min-Weight k-Clique",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Clique Problems",
+      "Variation": "Max-Weight k-Clique",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Traveling-Salesman Problem",
+      "Variation": "Minimum TSP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Traveling-Salesman Problem",
+      "Variation": "Maximum TSP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Traveling-Salesman Problem",
+      "Variation": "Approximate TSP",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Poisson Problem",
+      "Variation": "2-Dimensional Poisson Problem",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Poisson Problem",
+      "Variation": "3-Dimensional Poisson Problem",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Delaunay Triangulation",
+      "Variation": "Delaunay Triangulation",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "De Novo Genome Assembly",
+      "Variation": "De Novo Genome Assembly",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "The Subset-Sum Problem",
+      "Variation": "Subset Sum",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Dependency Inference Problem",
+      "Variation": "Functional Dependency Inference Problem",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "Dependency Inference Problem",
+      "Variation": "Multivalued Dependency Inference Problem",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "BCNF Decomposition",
+      "Variation": "BCNF Decomposition",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "BCNF Decomposition",
+      "Variation": "Decisional BCNF",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "4NF Decomposition",
+      "Variation": "4NF Decomposition",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "4NF Decomposition",
+      "Variation": "4NF Decomposition for Functional and Multivalued Dependency Sets",
+      "Domain": ""
+    },
+    {
+      "Family Name": "4NF Decomposition",
+      "Variation": "4NF Decomposition for Conflict-Free Dependency Sets",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Disk Scheduling",
+      "Variation": "Disk Scheduling",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "The Vertex Cover Problem",
+      "Variation": "The Vertex Cover Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Vertex Cover Problem",
+      "Variation": "The Vertex Cover Problem, Degrees Bounded By 3",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "CFG Problems",
+      "Variation": "CFG Parsing",
+      "Domain": ""
+    },
+    {
+      "Family Name": "CFG Problems",
+      "Variation": "CFG Recognition",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Finding Frequent Itemsets",
+      "Variation": "Finding Frequent Itemsets",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Data Compression",
+      "Variation": "Lossy Compression",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Data Compression",
+      "Variation": "Lossless Compression",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Factorization of Polynomials Over Finite Fields",
+      "Variation": "Factorization of Polynomials Over Finite Fields",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Cryptanalysis of Linear Feedback Shift Registers",
+      "Variation": "Cryptanalysis of Linear Feedback Shift Registers",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Stable Marriage Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Almost Stable Marriage Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Stable Roommates Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Boolean d-Attribute Stable Matching",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Stable Matching Verification",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Stable Matching Problem",
+      "Variation": "Stable Pair Checking",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Longest Path Problem",
+      "Variation": "Longest Path on Interval Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Subarray Problem",
+      "Variation": "Maximum Subarray",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Subarray Problem",
+      "Variation": "1D Maximum Subarray",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Subarray Problem",
+      "Variation": "2D Maximum Subarray",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Maximum Subarray Problem",
+      "Variation": "Maximum Square Subarray",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Constructing Suffix Trees",
+      "Variation": "Constructing Suffix Trees",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Ray Tracing",
+      "Variation": "Ray Tracing",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Entity Resolution",
+      "Variation": "Entity Resolution",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Longest Palindromic Substring",
+      "Variation": "Longest Palindromic Substring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "AST to Code Translation",
+      "Variation": "AST to Code Translation",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "AST to Code Translation",
+      "Variation": "Arithmetic Expression Binary Tree",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Graph Isomorphism, General Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Graph Isomorphism, Bounded Number of Vertices of Each Color",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Graph Isomorphism, Trivalent Graphs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Graph Isomorphism, Bounded Vertex Valences",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Largest Common Subtree",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Isomorphism Problem",
+      "Variation": "Subtree Isomorphism",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Realization Problems",
+      "Variation": "Digraph Realization Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Realization Problems",
+      "Variation": "DAG Realization Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Duplicate Elimination",
+      "Variation": "Duplicate Elimination",
+      "Domain": "Databases"
+    },
+    {
+      "Family Name": "Hyperbolic Spline Interpolation",
+      "Variation": "Hyperbolic Spline Interpolation",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Mesh Parameterization",
+      "Variation": "Mesh Parameterization",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Maximum Likelihood Methods in Unknown Latent Variables",
+      "Variation": "Maximum Likelihood Methods in Unknown Latent Variables",
+      "Domain": "Statistics"
+    },
+    {
+      "Family Name": "Collaborative Filtering",
+      "Variation": "Matrix Factorization",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Feature Detection",
+      "Variation": "Corner Detection",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Feature Detection",
+      "Variation": "Blob Detection",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Culling",
+      "Variation": "Culling",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Filtering Problem (Stochastic Processes)",
+      "Variation": "Filtering Problem (Stochastic Processes)",
+      "Domain": "Statistics"
+    },
+    {
+      "Family Name": "Optimal Policies for MDPs",
+      "Variation": "Optimal Policies for MDPs",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "The Set-Covering Problem",
+      "Variation": "Unweighted Set-Covering",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Set-Covering Problem",
+      "Variation": "Weighted Set-Covering",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Motif Search",
+      "Variation": "Motif Search",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "All Maximal Non-Branching Paths in a Graph",
+      "Variation": "All Maximal Non-Branching Paths in a Graph",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "Link Analysis",
+      "Variation": "InDegree Analysis",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Image Compositing",
+      "Variation": "Image Compositing",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Texture Synthesis",
+      "Variation": "Texture Synthesis",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Distributed Locking Algorithms",
+      "Variation": "Distributed Locking Algorithms",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Cyclic Peptide Sequencing Problem",
+      "Variation": "Cyclic Peptide Sequencing Problem",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "Texture Mapping",
+      "Variation": "Diffuse Reflection",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Texture Mapping",
+      "Variation": "Specular Reflection",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Point-in-Polygon",
+      "Variation": "Point-in-Polygon",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Image Segmentation",
+      "Variation": "Image Segmentation",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Mesh Simplification",
+      "Variation": "Mesh Simplification",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Clock Synchronization in Distributed Systems",
+      "Variation": "Clock Synchronization in Distributed Systems",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "POMDPs",
+      "Variation": "POMDPs",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "Rasterization",
+      "Variation": "Rasterization",
+      "Domain": "Image Processing"
+    },
+    {
+      "Family Name": "Texture Mapping",
+      "Variation": "Environment Mapping",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "Occupancy Grid Mapping",
+      "Variation": "Occupancy Grid Mapping",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "SLAM Algorithms",
+      "Variation": "SLAM Algorithms",
+      "Domain": "Robotics"
+    },
+    {
+      "Family Name": "d-Neighborhood of a String",
+      "Variation": "d-Neighborhood of a String",
+      "Domain": "Bioinformatics"
+    },
+    {
+      "Family Name": "Maximum Cut",
+      "Variation": "Maximum Cut",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Wiener Index",
+      "Variation": "Minimum Wiener Connector Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Wiener Index",
+      "Variation": "Undirected Wiener Index",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Determinant of Matrices with Integer Entries",
+      "Variation": "Determinant of Matrices with Integer Entries",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Integer Relation",
+      "Variation": "Integer Relation Among Reals",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Integer Relation",
+      "Variation": "Integer Relation Among Integers",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Sequence-to-Graph Alignment",
+      "Variation": "Sequence-To-Graph Alignment",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Logarithm Calculations",
+      "Variation": "Discrete Logarithm Over Finite Fields",
+      "Domain": "Statistics"
+    },
+    {
+      "Family Name": "Rod-Cutting Problem",
+      "Variation": "Rod-Cutting Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Self-Balancing Trees Creation",
+      "Variation": "Self-Balancing Trees Creation",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Self-Balancing Trees Insertion",
+      "Variation": "Self-Balancing Trees Insertion",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Self-Balancing Trees Deletion",
+      "Variation": "Self-Balancing Trees Deletion",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Self-Balancing Trees Search",
+      "Variation": "Self-Balancing Trees Search",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Transitive Reduction Problem",
+      "Variation": "Transitive Reduction Problem of Directed Graphs",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Change-Making Problem",
+      "Variation": "Change-Making Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Turnpike Problem",
+      "Variation": "Turnpike Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "n-Queens Problem",
+      "Variation": "Counting Solutions",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "n-Queens Problem",
+      "Variation": "Constructing Solutions",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "n-Queens Problem",
+      "Variation": "n-Queens Completion",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Median String Problem",
+      "Variation": "Median String Problem with Unbounded Alphabets",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Median String Problem",
+      "Variation": "Median String Problem with Bounded Alphabets",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Median String Problem",
+      "Variation": "Median String Problem with Binary Alphabets",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Frequent Words with Mismatches Problem",
+      "Variation": "Frequent Words with Mismatches Problem",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Tower of Hanoi",
+      "Variation": "Tower of Hanoi",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "The Frequent Words Problem",
+      "Variation": "The Frequent Words Problem",
+      "Domain": "Statistics"
+    },
+    {
+      "Family Name": "Integral Equations",
+      "Variation": "Fredholm Equations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Integral Equations",
+      "Variation": "Volterra Equations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "One-Way Hash Functions",
+      "Variation": "Keyed Hash Functions",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "One-Way Hash Functions",
+      "Variation": "Unkeyed Hash Functions",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "Secret Sharing",
+      "Variation": "Secret Sharing",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "Solutions to Nonlinear Equations",
+      "Variation": "Solutions to Nonlinear Equations",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Block Ciphers",
+      "Variation": "Block Ciphers",
+      "Domain": "Cryptography"
+    },
+    {
+      "Family Name": "Polynomial Interpolation",
+      "Variation": "Polynomial Interpolation",
+      "Domain": "Numerical Analysis"
+    },
+    {
+      "Family Name": "Greatest Common Divisor",
+      "Variation": "Greatest Common Divisor",
+      "Domain": "Statistics"
+    },
+    {
+      "Family Name": "Interval Scheduling",
+      "Variation": "Unweighted Interval Scheduling",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Interval Scheduling",
+      "Variation": "Unweighted Interval Scheduling, Online",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Interval Scheduling",
+      "Variation": "Weighted Interval Schedule Maximization Problem (ISMP)",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Deadlock Avoidance",
+      "Variation": "Deadlock Avoidance",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Deadlock Avoidance",
+      "Variation": "Dining Philosophers Problem",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Page Replacements",
+      "Variation": "Offline",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Page Replacements",
+      "Variation": "Online",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Recovery",
+      "Variation": "Steal, No-Force",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Recovery",
+      "Variation": "No-Steal, Force",
+      "Domain": "Operating Systems"
+    },
+    {
+      "Family Name": "Link Analysis",
+      "Variation": "Link Analysis",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "k-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "Chromatic Number",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "2-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "3-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "4-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "5-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "#k-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "#2-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "#3-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "#4-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Graph Coloring",
+      "Variation": "#5-Graph Coloring",
+      "Domain": "Combinatorics"
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Conjunctive Normal Form SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Disjunctive Normal Form SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "1-in-3SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Monotone 1-in-3SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Monotone Not-Exactly-1-in-3SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "All-Equal-SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Not-All-Equal 3-SAT (NAE 3SAT)",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Monotone Not-All-Equal 3-SAT (Monotone NAE 3SAT)",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "k-SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "2SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "3SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "3SAT-5",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "4SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Monotone 3SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "XOR-SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Horn SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Dual-Horn SAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "Renamable Horn",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Boolean Satisfiability",
+      "Variation": "MaxSAT",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Orthogonal Vectors",
+      "Variation": "OV",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Orthogonal Vectors",
+      "Variation": "k-OV",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Orthogonal Vectors",
+      "Variation": "3-OV",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Orthogonal Vectors",
+      "Variation": "Unbalanced OV",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Median",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Radius",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Diameter 2 vs 3",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Diameter 3 vs 7",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Approximate Diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "Decremental Diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "1-sensitive (4/3)-approximate decremental diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "1-sensitive decremental diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "constant sensitivity (4/3)-approximate incremental diameter",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Metrics",
+      "Variation": "1-sensitive (4/3)-approximate decremental eccentricity",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Eccentricity",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "All-Nodes Median Parity",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Betweenness Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Approximate Betweenness Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Positive Betweenness Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Directed All-Nodes Positive Betweenness Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Undirected All-Nodes Positive Betweenness Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Reach Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Directed All-Nodes Reach Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Undirected All-Nodes Reach Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Centrality",
+      "Variation": "Approximate Reach Centrality",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Negative Triangle Detection",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Negative Triangle Search",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Negative Triangle Listing",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Nondecreasing Triangle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Minimum Triangle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Triangle in Unweighted Graph",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Triangle Detection",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Triangle Problems",
+      "Variation": "Triangle Collection*",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Metricity",
+      "Variation": "Metricity",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Frechet Distance",
+      "Variation": "Frechet Distance",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Dynamic Time Warping",
+      "Variation": "Dynamic Time Warping",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Partial Match",
+      "Variation": "Partial Match",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Incidence Problems",
+      "Variation": "3 Points on Line",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Incidence Problems",
+      "Variation": "Point on 3 Lines",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Separator Problems",
+      "Variation": "Separator1",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Separator Problems",
+      "Variation": "Separator2",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Strips Cover Box",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Triangles Cover Triangle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Hole in Union",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Triangle Measure",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Point Covering",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Max-Weight Rectangle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Covering Problems",
+      "Variation": "Weighted Depth",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Visibility Problems",
+      "Variation": "Visibility Between Segments",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Visibility Problems",
+      "Variation": "Visibility From Infinity",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Visibility Problems",
+      "Variation": "Visible Triangle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Motion Planning Problems",
+      "Variation": "Planar Motion Planning",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Motion Planning Problems",
+      "Variation": "3D Motion Planning",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Geometric Base",
+      "Variation": "Geometric Base",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Local Alignment",
+      "Variation": "Local Alignment",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Local Alignment",
+      "Variation": "Multiple Local Alignment",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Minimum Witness",
+      "Variation": "Minimum Witness Finding",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Minimum Witness",
+      "Variation": "All Pairs Minimum Witness",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Independent Set Queries",
+      "Variation": "Independent Set Queries",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Price Query",
+      "Variation": "Price Query",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Cycles",
+      "Variation": "Shortest Cycle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Graph Cycles",
+      "Variation": "Shortest k-Cycle",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Matrix-Vector Multiplication",
+      "Variation": "Online Matrix-Vector Multiplication",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Matrix-Vector Multiplication",
+      "Variation": "Online Vector-Matrix-Vector Multiplication",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "#SSR",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "sensitive incremental #SSR",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "ST-Reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "st-Reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "constant sensitivity incremental ST-Reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "1-sensitive incremental ss-reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "2-sensitive incremental st-reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Vertex Reachability",
+      "Variation": "ap-reach",
+      "Domain": ""
+    },
+    {
+      "Family Name": "RNA Folding",
+      "Variation": "RNA Folding",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Maximum Inner Product Search",
+      "Variation": "Maximum Inner Product Search",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Reachability in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Disjunctive Reachability Queries in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Conjunctive Reachability Queries in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Safety in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Disjunctive Safety Queries in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Conjunctive Safety Queries in MDPs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Safety in Graphs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Disjunctive Queries of Safety in Graphs",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Disjunctive coBüchi Objectives",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Model-Checking Problem",
+      "Variation": "Generalized Büchi Games",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Dihedral Rotation Queries",
+      "Variation": "Static Dihedral Rotation Queries",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Dihedral Rotation Queries",
+      "Variation": "Dynamic Dihedral Rotation Queries",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Bichromatic Hamming Close Pair",
+      "Variation": "Bichromatic Hamming Close Pair",
+      "Domain": ""
+    },
+    {
+      "Family Name": "Support Vector Machines (SVM)",
+      "Variation": "Approximate Hard-Margin SVM",
+      "Domain": ""
+    },
+    {
+      "Family Name": "3SUM",
+      "Variation": "3SUM",
+      "Domain": ""
+    },
+    {
+      "Family Name": "3SUM",
+      "Variation": "Real 3SUM",
+      "Domain": ""
+    },
+    {
+      "Family Name": "3SUM",
+      "Variation": "3SUM'",
+      "Domain": ""
+    },
+    {
+      "Family Name": "3SUM",
+      "Variation": "All-Integers 3SUM",
+      "Domain": ""
+    }
+  ]

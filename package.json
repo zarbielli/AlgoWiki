@@ -1,0 +1,37 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/google-fonts": "^3.0.1",
+    "@types/katex": "^0.16.1",
+    "@types/node": "^18",
+    "nuxt": "^3.6.1"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@vueuse/core": "^10.5.0",
+    "canvas2svg": "^1.0.16",
+    "cytoscape": "^3.25.0",
+    "cytoscape-cose-bilkent": "^4.1.0",
+    "cytoscape-layers": "^2.4.4",
+    "cytoscape-popper": "^2.0.0",
+    "cytoscape-svg": "^0.4.0",
+    "fuse.js": "^7.0.0",
+    "googleapis": "^120.0.0",
+    "katex": "^0.16.8",
+    "nuxt-headlessui": "^1.1.4",
+    "nuxt-highcharts": "^3.0.11",
+    "nuxt-icon": "^0.4.2",
+    "tippy.js": "^6.3.7",
+    "vue3-treeselect": "^0.1.10"
+  }
+}
