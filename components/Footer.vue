@@ -27,5 +27,6 @@ const links = [
   { name: "Visualizations", path: "/visualizations" },
   { name: "Glossary", path: "/glossary" },
   { name: "About", path: "/about" },
+  { name: "Download", path: "/download" },
 ];
 </script>

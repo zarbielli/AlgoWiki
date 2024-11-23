@@ -15,17 +15,16 @@
         </li>
       </ul>
       <div class="">
-        
-        <CommandPalette  v-slot="{ openModal }">
-            <button
-              @click="openModal"
-              class="flex gap-2 items-center rounded-xl ransform   bg-white shadow-2xl ring-1 ring-black ring-opacity-5 pr-4 pl-2 py-2">
-              <Icon name="heroicons:magnifying-glass"
-                class="pointer-events-none top-3.5 left-4 h-5 w-5 text-gray-400" aria-hidden="true" />
-              <p class="text-gray-400 w-full sm:w-36 text-left">
-                Search...
-              </p>
-            </button>
+
+        <CommandPalette v-slot="{ openModal }">
+          <button @click="openModal"
+            class="flex gap-2 items-center rounded-xl ransform   bg-white shadow-2xl ring-1 ring-black ring-opacity-5 pr-4 pl-2 py-2">
+            <Icon name="heroicons:magnifying-glass" class="pointer-events-none top-3.5 left-4 h-5 w-5 text-gray-400"
+              aria-hidden="true" />
+            <p class="text-gray-400 w-full sm:w-36 text-left">
+              Search...
+            </p>
+          </button>
         </CommandPalette>
       </div>
 
@@ -40,5 +39,6 @@ const links = [
   { name: "Visualizations", path: "/visualizations" },
   { name: "Glossary", path: "/glossary" },
   { name: "About", path: "/about" },
+  { name: "Download", path: "/download" },
 ];
 </script>
